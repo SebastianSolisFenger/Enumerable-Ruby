@@ -1,62 +1,57 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Enumerable-Ruby
 
-# Project Name
-
-> Description the project.
-
+> This project represents our own implementation of the all?, any? and filter methods
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
+- IRB
+- linter: Rubocop
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your local machine
+- Clone [this repository](https://github.com/SebastianSolisFenger/Enumerable-Ruby.git)
+  ```
+  gh repo clone SebastianSolisFenger/Enumerable-Ruby
+  ```
+- To get started, In the root directory run:
 
+```
+gem install bundler
+```
 
-To get a local copy up and running follow these simple example steps.
+Then run:
 
-### Prerequisites
+```
+bundle install
+```
 
-### Setup
+Open terminal and run ruby app in the command Line:
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+```
+ruby my_list.rb
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **Sebastian Daniel Solis Fenger**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@SebastianSolisFenger](https://github.com/SebastianSolisFenger)
+- LinkedIn: [@SebastianSolisFenger](https://www.linkedin.com/in/sebastiansolisfenger/)
+- Twitter:[@SolisFenger](https://twitter.com/SolisFenger)
 
-👤 **Author2**
+👤 **Juan Rosario**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jrosario19](https://github.com/jrosario19)
+- Twitter: [@jrosario19](https://twitter.com/jrosario19)
+- LinkedIn: [Juan Fco. Rosario](https://linkedin.com/in/juan-francisco-rosario-suli-44595051)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/SebastianSolisFenger/Enumerable-Ruby/issues)
 
 ## Show your support
 
