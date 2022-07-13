@@ -2,6 +2,12 @@
 
 > This project represents our own implementation of the all?, any? and filter methods
 
+## Built With
+
+- Ruby
+- IRB
+- linter: Rubocop
+
 ## Getting Started
 
 - [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your local machine
