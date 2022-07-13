@@ -2,8 +2,6 @@
 
 > This project represents our own implementation of the all?, any? and filter methods
 
-![image](https://user-images.githubusercontent.com/88522494/178771101-79b7dc29-1008-45c6-ba67-fd984103fa3f.png)
-
 ## Getting Started
 
 - [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/) on your local machine
